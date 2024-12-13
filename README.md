@@ -1,0 +1,4 @@
+# Thermo-Snooker
+The aim of the project is to investigate the thermodynamics of ideal gas particles using a simulation. We considered a simple case of modelling ideal gas particles as elastic collisions of hard spheres where the particles only interact during collisions and the full conservation of energy and momentum for the particles. 
+
+ 6 Files are uploaded: (1) tcp_Ball contains the ball class (2) tcp_Simulation contains the Simulation class (3) tcp_SimulationTest used to simply test the simulation (4) tcp_plots used for plotting Plot 1,2,5a,5b (5) tcp_fits used for fitting plots Plot 6,7,8 (6) tcp_conservation used to test conservation of ke and momentum and Plot 3,4 For running the plots, you should run the import cell first and then the corresponding cell for the plot you want. Do not run the entire code.
